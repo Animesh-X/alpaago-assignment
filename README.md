@@ -1,8 +1,3 @@
-# React + Vite
+# Alpaago Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a user management system built using React.js and Firebase. It features a responsive web application where users can sign up, log in, and manage their accounts. Firebase Authentication handles user authentication, while Firestore serves as the database for storing user information. The application utilizes React  for state management and React Router for navigation. The user interface is designed using Bootstrap for a clean and modern look, with features such as filtering, sorting, and user status management integrated seamlessly into the UI.
